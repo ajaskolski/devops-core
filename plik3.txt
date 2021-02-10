@@ -1,1 +1,2 @@
 init plik3
+change from github
